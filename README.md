@@ -1,10 +1,12 @@
 🖥️ Operating Systems Lab Assignments
+
 📌 Overview
 
 This repository contains my Operating Systems Lab assignments implemented in Python.
 It includes two major assignments covering important OS concepts and algorithms.
 
 🚀 Assignments Included
+
 📘 Assignment 1: CPU Scheduling
 First Come First Serve (FCFS)
 Shortest Job First (SJF - Non Preemptive)
